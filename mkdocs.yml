@@ -1,0 +1,109 @@
+site_name: AIR - AstroBotany Investigation Resource
+site_url: https://dr-richard-barker.github.io/AIR_for_undergrads/
+site_description: >-
+  Hands-on astrobotany for the classroom. Grow plants in space-like conditions,
+  collect real data, and join an international community of student scientists.
+site_author: Gilbert Cauthorn, Sophia Griffith, Rachel Wang, and Dr. Richard Barker
+copyright: >-
+  Released to the public domain under
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a> &mdash;
+  free to use, remix, and share in any classroom.
+
+# Source repository (adds the "edit this page" pencil and repo link).
+repo_url: https://github.com/dr-richard-barker/AIR_for_undergrads
+repo_name: dr-richard-barker/AIR_for_undergrads
+edit_uri: edit/main/docs/
+
+docs_dir: docs
+
+theme:
+  name: material
+  language: en
+  logo: assets/cose-logo.png
+  favicon: assets/cose-logo.png
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.tooltips
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: light-green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: light-green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/cose.css
+
+extra_javascript:
+  - https://dr-richard-barker.github.io/Plant_response_to_radiation/cose/sites.js
+  - https://dr-richard-barker.github.io/Plant_response_to_radiation/cose/cose-booknav.js
+
+plugins:
+  - search
+  - literate-nav:
+      nav_file: SUMMARY.md
+  - section-index
+  - glightbox: # click any figure to zoom — helpful for microscopy / root images
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      width: 100%
+      height: auto
+      zoomable: true
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dr-richard-barker/AIR_for_undergrads
+      name: AIR on GitHub
+    - icon: fontawesome/solid/seedling
+      link: https://astrobiology.botany.wisc.edu/education-outreach
+      name: UW-Madison Astrobotany Education & Outreach
+    - icon: fontawesome/solid/cloud
+      link: https://cosecloud.com/
+      name: COSE — cosecloud.com

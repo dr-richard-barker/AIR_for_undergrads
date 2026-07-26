@@ -17,7 +17,7 @@ This schedule details the weekly topics, readings, lab exercises, and assignment
 * **Required Readings**:
   * [🌱🚀 Grow Plants in Space](../index.md)
   * [Program Overview — Microgreens in Microgravity](../program-overview.md)
-  * [Introduction to AstroBotany & Data Sharing](../air-astrobotany-introduction/README.md)
+  * [Introduction to AstroBotany & Data Sharing](../airi-astrobotany-introduction/README.md)
 
 ---
 

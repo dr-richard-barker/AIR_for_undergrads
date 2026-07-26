@@ -8,6 +8,6 @@ Ever wonder how growth and the environment locally affect the water potential of
 
 _(The interactive hydropatterning app is no longer online.)_
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>

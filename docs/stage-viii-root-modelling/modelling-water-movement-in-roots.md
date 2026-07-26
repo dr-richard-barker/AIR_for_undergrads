@@ -4,7 +4,7 @@ Check out this review article
 
 📄 [Read the paper (Plant Direct)](https://onlinelibrary.wiley.com/doi/10.1002/pld3.582)
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 Check out the shiny application to identify most important facters affect the soil-plant-atmopshere continuum
 
@@ -16,11 +16,11 @@ MECHA is an explicit cross-section model of the root hydraulic anatomy which con
 
 The model computes horizontal water flow at the level of individual cells, quantifies the contribution of water composite pathways, and predicts root radial permeability (kr), using detailed anatomical descriptions and experimental data on the permeability of cell walls (kw), membranes (Lp) and the conductance of individual plasmodesmata (KPD).
 
-<figure><img src="../../.gitbook/assets/image (27).webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (27).webp" alt=""><figcaption></figcaption></figure>
 
 [https://mecharoot.github.io/](https://mecharoot.github.io/)
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 ### Using MECHA
 

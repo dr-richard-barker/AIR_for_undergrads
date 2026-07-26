@@ -33,6 +33,10 @@
     * [Stage X: Mining RNAseq for Cellular Metabolism Modelling](stage-x-mining-rnaseq-for-cellular-metabolism-modelling.md)
     * [Stage XI: Mining Membrane-based Interactome Database](stage-xi-mining-membrane-based-interactome-database.md)
     * [Designing a Systems Biology Course](introduction-to-system-biology.md)
+* 🎓 Undergraduate Track
+    * [Undergraduate Track Overview](undergrad/README.md)
+    * [Weekly Course Schedule](undergrad/SCHEDULE.md)
+    * [Course Syllabus & Grading Rubric](undergrad/SYLLABUS.md)
 * Reference & Tools
     * [Tools & Software](tools.md)
     * [Literature & References](references.md)
