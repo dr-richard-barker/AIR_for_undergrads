@@ -1,15 +1,16 @@
 # Table of contents
 
 * [Home](index.md)
-* [Program Overview](program-overview.md)
-* [For Teachers](for-teachers.md)
-* [Assessment & Learning Gains](assessment.md)
-* [For Citizen Scientists](citizen-scientists.md)
+* Undergraduate Course Planning
+    * [Undergraduate Track Overview](undergrad/README.md)
+    * [Course Syllabus & Grading Rubric](undergrad/SYLLABUS.md)
+    * [Weekly Course Schedule](undergrad/SCHEDULE.md)
+    * [Assessment & Learning Gains](assessment.md)
 * Getting Started
     * [Introduction to AstroBotany & Data Sharing](airi-astrobotany-introduction/README.md)
         * [Links to Next Generation Science Standards (NGSS)](airi-astrobotany-introduction/air-course-links-to-next-generation-science-standards.md)
         * [Table 1: AIR Experimental Course Map](airi-astrobotany-introduction/table-1-air-experimental-course-map.md)
-* 🧑‍🏫 Classroom Track
+* 🎓 Undergraduate Program Stages
     * [Stage I: Scientific Photography of Space Plants](stage-i-scientific-photography/README.md)
         * [AstroBotany Photography Guide (SOP)](stage-i-scientific-photography/photography-guide.md)
     * [Stage II: What's Your Favorite Microgreen?](stage-ii-whats-your-favorite-microgreen/README.md)
@@ -19,8 +20,6 @@
     * [Stage IV: Microgreen Development & Gravitropic Response](research-stage-iv-microgreen-development-and-gravitropic-response/README.md)
         * [Gravity and Mechanical Sensing in Plants](research-stage-iv-microgreen-development-and-gravitropic-response/gravity-and-mechanical-sensing-in-plants.md)
         * [Root System Architecture with PlantCV](research-stage-iv-microgreen-development-and-gravitropic-response/root-system-architecture-with-plantcv.md)
-* 🔬 Extension & Research Track
-    * [About this track (advanced)](extension-research-track.md)
     * [Stage V: Auxin and Plant Cloning](stage-v-auxin-and-plant-cloning.md)
     * [Stage VI: Micro-Gravi-tropism Assays](research-stage-vi-gravitropism-assays.md)
     * [Stage VII: Modelling of Plant Hormone Transport](stage-vii-modelling-of-plant-hormone-transport.md)
@@ -33,10 +32,6 @@
     * [Stage X: Mining RNAseq for Cellular Metabolism Modelling](stage-x-mining-rnaseq-for-cellular-metabolism-modelling.md)
     * [Stage XI: Mining Membrane-based Interactome Database](stage-xi-mining-membrane-based-interactome-database.md)
     * [Designing a Systems Biology Course](introduction-to-system-biology.md)
-* 🎓 Undergraduate Track
-    * [Undergraduate Track Overview](undergrad/README.md)
-    * [Weekly Course Schedule](undergrad/SCHEDULE.md)
-    * [Course Syllabus & Grading Rubric](undergrad/SYLLABUS.md)
 * Reference & Tools
     * [Tools & Software](tools.md)
     * [Literature & References](references.md)
