@@ -17,17 +17,17 @@ You do **not** need to run the whole program. Pick a stage that matches your gra
 
 | If you have...                | Try...                                                                                          |
 | ----------------------------- | ----------------------------------------------------------------------------------------------- |
-| One class period and a camera | [Stage I: Scientific Photography](stage-i-scientific-photography/)                              |
-| Internet and a discussion     | [Stage II: Favorite Microgreen](stage-ii-whats-your-favorite-microgreen/)                       |
-| 1–2 weeks and a windowsill    | [Stage III: Growing Microgreens](stage-iii-growth-of-microgreens-in-terrestrial-environments/)  |
-| Agar/filter paper and a phone | [Stage IV: Gravity & Roots](research-stage-iv-microgreen-development-and-gravitropic-response/) |
+| One class period and a camera | [Stage I: Scientific Photography](stage-i-scientific-photography/README.md)                              |
+| Internet and a discussion     | [Stage II: Favorite Microgreen](stage-ii-whats-your-favorite-microgreen/README.md)                       |
+| 1–2 weeks and a windowsill    | [Stage III: Growing Microgreens](stage-iii-growth-of-microgreens-in-terrestrial-environments/README.md)  |
+| Agar/filter paper and a phone | [Stage IV: Gravity & Roots](research-stage-iv-microgreen-development-and-gravitropic-response/README.md) |
 
 ## Your classroom superpower: image analysis with the AstroCalibration sticker
 
 The heart of AIR is turning **photos of plants into real measurements**. A small printed [**AstroCalibration sticker**](https://www.stickermule.com/drb2025) (the AstroBotany Spectrum) placed in each photo gives free software a known size _and_ colour to calibrate against — so an ordinary phone snapshot becomes scientific data. The classroom loop is the same in every stage:
 
 1. **🏷️ Add the sticker** to your growing tray or agar plate.
-2. **📷 Photograph** your plants the same way each time — [Stage I: Scientific Photography](stage-i-scientific-photography/).
+2. **📷 Photograph** your plants the same way each time — [Stage I: Scientific Photography](stage-i-scientific-photography/README.md).
 3. **📐 Measure** with free computer vision ([PlantCV](https://plantcv.org/)):
    * [Green Area Index](stage-iii-growth-of-microgreens-in-terrestrial-environments/green-area-index-with-plantcv.md) — how fast the leafy canopy fills in.
    * [Root System Architecture](research-stage-iv-microgreen-development-and-gravitropic-response/root-system-architecture-with-plantcv.md) — root length and the gravity response.

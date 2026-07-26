@@ -20,13 +20,13 @@ More information can be found at [www.astrobotany.com](http://www.google.com/url
 
 _Arabidopsis_ plants live in a range of different natural environments around the world and have [adapted to their local environmental factors](https://www.google.com/url?q=https%3A%2F%2Frstudio.aws.science.psu.edu%3A3838%2Faaf11%2FAraCLIM%2F\&sa=D\&sntz=1\&usg=AOvVaw2z7L9ztVmKiS0c-zjEqJCj). This tool allows you to investigate natural variation in their environments. Below is data generated with a genetic mapping population that uses natural variation to investigate the genetic response of plants to a gravitropic stimulus.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://kbroman.org/qtlcharts/example/iplotCurves.html">https://kbroman.org/qtlcharts/example/iplotCurves.html</a></p></figcaption></figure>
+<figure><img src="../gitbook/assets/image.png" alt=""><figcaption><p><a href="https://kbroman.org/qtlcharts/example/iplotCurves.html">https://kbroman.org/qtlcharts/example/iplotCurves.html</a></p></figcaption></figure>
 
 **Above:** Link to Analysis of root reorientation kinetics after a 90 degree rotation reveals natural variation in the sensitivity of plants to gravity.
 
 ### Genetically encoded gravity sensing loci <a href="#h.p_0_tle0lzaqzl_l" id="h.p_0_tle0lzaqzl_l"></a>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://kbroman.org/qtlcharts/example/iplotMScanone.html">https://kbroman.org/qtlcharts/example/iplotMScanone.html</a></p></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://kbroman.org/qtlcharts/example/iplotMScanone.html">https://kbroman.org/qtlcharts/example/iplotMScanone.html</a></p></figcaption></figure>
 
 **Above:** Link to Quantitative trait locus analysis of the _Arabidopsis_ genome identifies regions that contain genes involved in gravity perception and response. The red and blue heatmap shows regions that are positively or negatively correlated with the speed of reorientation. _Arabidopsis_ has 5 chromosomes. The higher the LOD score in that region of a chromosome, the higher the probably that genes found there are involved in the trait being measured.
 

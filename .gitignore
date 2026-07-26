@@ -1,0 +1,18 @@
+# MkDocs build directory
+site/
+
+# Python cache and environments
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+.pytest_cache/
+.tox/
+
+# Node/JavaScript dependencies
+node_modules/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
