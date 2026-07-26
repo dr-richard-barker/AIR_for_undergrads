@@ -13,7 +13,7 @@ Welcome! This page is your starting point for bringing AIR into a classroom, hom
 
 ## Choosing where to start
 
-You do **not** need to run the whole program. Pick a stage that matches your grade band, time, and budget. The **Classroom Track (Stages I–IV)** is designed for K–12 and needs minimal equipment. The **Extension & Research Track (Stages V–XI)** suits advanced high-school, undergraduate, or citizen-science learners.
+You do **not** need to run the whole program. Pick a stage that matches your grade band, time, and budget. The **Classroom Track (Stages I–IV)** is designed for minimal equipment. The **Extension & Research Track (Stages V–XI)** suits advanced undergraduate, or citizen-science learners.
 
 | If you have...                | Try...                                                                                          |
 | ----------------------------- | ----------------------------------------------------------------------------------------------- |
