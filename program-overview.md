@@ -10,20 +10,6 @@ description: AstroBotany Educational Ethos, tools and techniques
 
 **Research Guide**
 
-**Authors**
-
-Gilbert Cauthorn, MSc, Sophia Griffith, Rachel Wang, and Dr. Richard Barker.
-
-SKG Astrobotany Research and Education Program, Osaka, Japan
-
-Gilroy Lab, University of Wisconsin Madison, USA
-
-**Reviewers**
-
-Dr Christina Johnson, Lori Waters, MSc, Emily Helton, Joshua Revels
-
-UW-Madison, ARC, KSC, and the JSC Education Resource Center
-
 ### AstroBotany Educational Ethos, tools and techniques <a href="#mr1nbxnfln3u" id="mr1nbxnfln3u"></a>
 
 The goal of the AIR program is to create a collaborative international environment in which students, educators, researchers, and citizen scientists are able to contribute to astrobotany research in future space missions. We aim to share methods and data openly to help students and researchers around the world learn from each other's experiences while using the AIR project-based learning program. It doesn’t matter if you are a professor lecturing in higher education or an informal citizen scientist with a passion for plants or space. We believe in equity in education, so we’ve added tables showing how AIR can help teachers create authentic project-based research experiences that achieve next-generation science standards.
