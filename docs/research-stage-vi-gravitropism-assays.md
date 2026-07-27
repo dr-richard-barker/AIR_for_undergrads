@@ -1,6 +1,20 @@
 # Stage VI: Micro-Gravi-tropism Assays
 
-!!! abstract "This is the RPM step of the [researcher pathway](extension-research-track.md)" Here you run a **simulated-microgravity** experiment on the **CoSE SciSpinner Max** (a 3D clinostat / random positioning machine). Work through the [pre-flight checklist](extension-research-track.md#are-you-rpm-ready-a-pre-flight-checklist) first, and remember to run a **paired 1 g control** (same setup, not rotating). Access the machine via the [CoSE Researchers page](https://www.cosecloud.com/researchers).
+!!! abstract "This is the RPM step of the Undergraduate Track program." Here you run a **simulated-microgravity** experiment on the **CoSE SciSpinner Max** (a 3D clinostat / random positioning machine). Work through the pre-flight checklist below first, and remember to run a **paired 1 g control** (same setup, not rotating). Access the machine via the [CoSE Researchers page](https://www.cosecloud.com/researchers).
+
+### 🛰️ Are you RPM-ready? A Pre-Flight Checklist
+
+Before booking SciSpinner Max time, make sure you can:
+
+- [ ] Take **calibrated, repeatable images** with the AstroCalibration marker ([Stage I](stage-i-scientific-photography/README.md)).
+- [ ] Germinate and mount seedlings on **agar plates** suited to the clinostat ([Stage IV](research-stage-iv-microgreen-development-and-gravitropic-response/README.md)).
+- [ ] State a **clear hypothesis** and define your **1g ground control** (the same setup, *not* rotating).
+- [ ] Plan **replication** (multiple plates/seedlings) and the **rotation rate** you'll test.
+- [ ] Measure **root angle / length** from images ([RSA with PlantCV](research-stage-iv-microgreen-development-and-gravitropic-response/root-system-architecture-with-plantcv.md)).
+- [ ] Have a **FAIR data plan** (methods logged, open formats, a place to share).
+
+!!! tip "Designing a good microgravity experiment"
+    The RPM removes a *directional* gravity cue — so always run a **paired 1 g control** on the same schedule, change **one variable** (e.g. rotation rate, species, light), and predict the outcome first. The [Virtual Root simulator](https://dr-richard-barker.github.io/virtual-root/) lets you **rehearse the hypothesis** — remove the gravity bias and watch the auxin asymmetry disappear before you test it on real seedlings.
 
 ### **Introduction**
 

@@ -16,7 +16,6 @@ This schedule details the weekly topics, readings, lab exercises, and assignment
 * **Topics & Focus**: Introduction to astrobotany history; the importance of plants in closed-loop life support systems; introduction to the Open Science/FAIR data ethos.
 * **Required Readings**:
   * [🌱🚀 Grow Plants in Space](../index.md)
-  * [Program Overview — Microgreens in Microgravity](../program-overview.md)
   * [Introduction to AstroBotany & Data Sharing](../airi-astrobotany-introduction/README.md)
 
 ---
@@ -67,7 +66,6 @@ This schedule details the weekly topics, readings, lab exercises, and assignment
 * **Topics & Focus**: Statistical analysis in plant biology (ANOVA, t-tests, standard error); data validation and ingestion; collaborative science tools.
 * **Required Readings**:
   * [Assessment & Learning Gains](../assessment.md)
-  * [For Citizen Scientists](../citizen-scientists.md)
 * **Practical Lab Activity**: Clean the group dataset, run an ANOVA or t-test comparing the gravitropic response rates of your varieties, and upload the finalized, formatted dataset to [Epicollect5](https://five.epicollect.net/).
 * **Deliverable**: Upload proof of your Epicollect5 data submission and paste the output of your statistical analysis (including p-values and graphs) in your lab journal.
 
@@ -95,7 +93,6 @@ This schedule details the weekly topics, readings, lab exercises, and assignment
 * **Topics & Focus**: Clinostats and Random Positioning Machines (RPMs); physics of simulated microgravity; 3D root mapping challenges.
 * **Required Readings**:
   * [Stage VI: Micro-Gravi-tropism Assays](../research-stage-vi-gravitropism-assays.md)
-  * [For Researchers — from skills to the microgravity RPM](../extension-research-track.md)
 * **Practical Lab Activity**: Mount petri dishes onto a 2D clinostat or RPM (such as the CoSE SciSpinner). Set rotation parameters and monitor growth adaptation overnight compared to vertical controls.
 * **Deliverable**: Document simulated microgravity rotation rates, exposure times, and comparative root-curvature plots.
 
